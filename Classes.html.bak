@@ -1,0 +1,273 @@
+<html>
+<title>FITNESS HUB</title>
+<head>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	<link rel="stylesheet" href="Classes.css">
+</head>
+
+<body>
+
+	<!-- 	NAVIGATION BAR-->
+
+<nav class="navbar navbar-expand-sm  navbar-dark sticky-top" style="background:black;">
+	<div class="container">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="margin-top:5px;">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+    <header class="d-flex flex-wrap justify-content-center">
+      <a href="/" class="d-flex  mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="5"><use xlink:href="#bootstrap"></use></svg>
+        
+      </a>
+<div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="nav nav-pills navbar-nav mx-auto">
+        <li class="nav-item"><a href="index.html"  class="nav-link "  style="width: 100px; text-align: center;">HOME</a></li>
+        <li class="nav-item"><a href="About.html" class="nav-link "   style="width: 100px; text-align: center;">ABOUT</a></li>
+        <li class="nav-item"><a href="Classes.html" class="nav-link active" aria-current="page"  style="width: 100px; text-align: center;">CLASSES</a></li>
+		<li class="nav-item"><a href="NutritionCounseling.html" class="nav-link" style="width:230px; text-align:center;">NUTRITION COUNSELING</a></li>
+		<li class="nav-item"><a href="Contact.html" class="nav-link"style="width:100px; text-align: center;">CONTACT</a></li>
+      </ul>
+	  </div>
+    </header>
+	</div>
+	</nav>
+
+	<!-- ----------------------	Images----------------------------->
+	
+	<div class="first">
+	
+	
+	</div>
+	
+	
+	<!-- ----------------------	Card----------------------------->
+	
+	
+	
+			
+	<div class="container">
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+	
+	<div class="testimotionals">
+	
+  <div class="card">
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	 <div class="image">
+        <img  height="300px" src="Images/images24.jpg" alt="">
+        
+      </div>
+		<h1>BOLLYWOOD DANCE CHOREOGRAPHY WORKSHOPS</h1>
+      <p>Learn Bollywood Dance Today! Bollywood Dance choreography workshops are for those who want to nail those dancing moves by following them step-by-step and performing the</p>
+     
+     
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+<div class="testimotionals">
+  <div class="card" style="height:580px;">
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	<div class="image1">
+        <img  width="300px" height="300px" src="Images/images26.jpg" alt="">
+        </div>
+	<h1>CROSSFIT GROUP TRAINING CLASS</h1>
+      <p>Take your workout to the next level with CrossFit Group Training Classes with Pravin</p>
+     
+        
+      
+    </div>
+  </div>
+</div>
+</div>
+
+			</div>
+			</div>
+			
+	
+	
+	
+	<!-- ----------------------	Card 1----------------------------->
+	
+	
+	
+			
+	<div class="container">
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+	
+	<div class="testimotionals">
+  <div class="card">
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	 <div class="image">
+        <img  height="300px" src="Images/images27.jpg" alt="">
+        
+      </div>
+		<h1>
+KICKBOXING</h1>
+      <p>Whack them Fitness Struggles and Grow Strong!</p>
+     
+     
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+<div class="testimotionals">
+  <div class="card" >
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	<div class="image1">
+        <img  width="300px" height="300px" src="Images/images26.jpg" alt="">
+        </div>
+	<h1>INDOOR CYCLING</h1>
+      <p>SWEAT TO A DIFFERENT BEAT</p>
+     
+        
+      
+    </div>
+  </div>
+</div>
+</div>
+
+			</div>
+			</div>
+	
+	
+	
+	
+	<!-- ----------------------	card 2----------------------------->
+	
+	
+	
+			
+	<div class="container">
+	<div class="row">
+	<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+	
+	<div class="testimotionals">
+  <div class="card">
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	 <div class="image">
+        <img  height="300px" src="Images/images2.jpg" alt="">
+        
+      </div>
+		<h1>
+ZUMBA FITNESS</h1>
+      <p>Forget About The Workout, Join The Party!</p>
+     
+     
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+<div class="testimotionals">
+  <div class="card" >
+    <div class="layer">
+      
+    </div>
+    <div class="content">
+	
+	<div class="image1">
+        <img  width="300px" height="300px" src="Images/images26.jpg" alt="">
+        </div>
+	<h1>POWER YOGA</h1>
+      <p>The holistic way to deal with stress and fitness!</p>
+     
+        
+      
+    </div>
+  </div>
+</div>
+</div>
+
+			</div>
+			</div>
+	
+	
+	<!-----------------------------------Footer------------------------------->
+ 
+	
+	<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<footer class="hero">
+        <div class="container flex">
+            <div class="container__about">
+                <h2>About</h2>
+                <p>If you want something you've never had, you must be willing to do something you've never done.” “The body achieves what the mind believes.” “Once you are exercising regularly, the hardest thing is to stop it.” “If you don't make time for exercise, you'll probably have to make time for illness.”</p>
+            </div>
+            <div class="container-pages flex">
+
+                <div class="container__recentpages">
+                    <h2>Recient Pages</h2>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="About.html">ABOUT</a></li>
+                        <li><a href="Classes.html">CLASSES</a></li>
+                        <li><a href="NutritionCounseling.html">NUTRITION COUNSELING</a></li>
+                       
+						<li><a href="Contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="by flex">
+            
+            <div class="icons">
+                <a href="https://t.co/VBNNTjtw3F" class="icon1 icon--instagram">
+                    <i class="ri-instagram-line"></i>
+                </a>
+                <a href="#" class="icon1 icon--twitter">
+                    <i class="ri-twitter-line"></i>
+                </a>
+                <a href="linkedin.com/in/brayan-ospina-8bb472243" class="icon1 icon--linkedin">
+                    <i class="ri-linkedin-line"></i>
+                </a>
+                <a href="https://github.com/brayanospina2005/final-project" class="icon1 icon--github">
+                    <i class="ri-github-line"></i>
+                </a>
+            </div>
+        </div>
+
+    </footer>
+	
+	
+
+</body>
+
+</html>

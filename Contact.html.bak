@@ -1,0 +1,137 @@
+<html>
+
+<title>FITNESS HUB</title>
+<head>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	<link rel="stylesheet" href="Contact.css">
+	
+</head>
+
+<body>
+
+<!-- 	NAVIGATION BAR-->
+
+<nav class="navbar navbar-expand-sm  navbar-dark sticky-top" style="background:black;">
+	<div class="container">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="margin-top:5px;">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+    <header class="d-flex flex-wrap justify-content-center">
+      <a href="/" class="d-flex  mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="5"><use xlink:href="#bootstrap"></use></svg>
+        
+      </a>
+<div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="nav nav-pills navbar-nav mx-auto">
+        <li class="nav-item"><a href="index.html"  class="nav-link "  style="width: 100px; text-align: center;">HOME</a></li>
+        <li class="nav-item"><a href="About.html" class="nav-link "   style="width: 100px; text-align: center;">ABOUT</a></li>
+        <li class="nav-item"><a href="Classes.html" class="nav-link "   style="width: 100px; text-align: center;">CLASSES</a></li>
+		<li class="nav-item"><a href="NutritionCounseling.html" class="nav-link "  style="width:230px; text-align:center;">NUTRITION COUNSELING</a></li>
+		<li class="nav-item"><a href="Contact.html" class="nav-link active" aria-current="page" style="width:100px; text-align: center;">CONTACT</a></li>
+      </ul>
+	  </div>
+    </header>
+	</div>
+	</nav>
+	
+	<!-------------------------------------------Image-------------------------->
+<div class="container-fluid">
+<div class="row">
+
+<h1 class="get">GET IN TOUCH</h1>
+<div class="about">
+		<h1 style="color:white; padding-left:230px; padding-top:20px; font-family:Impact; ">SEND US<lable style="color:#ff4700;"> A MESSAGE</lable></h1><br>
+		
+		
+		<lable class="lab"><b>Name</b></lable><br><input type="text" placeholder="Full Name" name="uname" required><br>
+		
+		<lable class="lab">Email Id</lable><br><input type="Email" placeholder="Email Id" name="uname" required><br>
+		
+		<lable class="lab">Contact</lable><br><input type="number" placeholder="Contact Number" name="uname" required  ><br>
+		
+		<lable class="lab">Location</lable><br><input type="text" placeholder="Enter Location" name="uname" required><br>
+		
+		
+		<label class="lab">Message</label><br><textarea rows="5" cols="50" name="comment" form="usrform" placeholder="Type Here.." style="width:600px; margin-left:60px;"></textarea><br>
+		
+		
+		<button type="Submit" value="Submit">Send Message</button>
+		
+</div>
+</div>
+	</div>
+	
+	<div class="container" style="background-color:black; height:400px; color:white;">
+	<div class="row">
+	<h1  style="padding-left:350px; padding-top:20px;">CONTACT <label style="color:#ff4700;">INFORMATION</label></h1>
+	<div class="col-12 col-sm-12 col-md-8 col-lg-8 col-xl-8">
+	
+	<h3 style="padding-left:100px; padding-top:20px;">NAVI MUMBAI</h3>
+	<h4 style="padding-left:100px; padding-top:20px; font-family:Monotype Corsiva;"><label  style="color:#ff4700;">Location  :-</label>5th Floor, Bombay Art Society, Opp.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hotel Rangsharda, Reclamation, Bandra West, Mumbai,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maharashtra 400050</h4>
+	<h4 style="padding-left:100px; padding-top:20px; font-family:Monotype Corsiva;"><label  style="color:#ff4700;">Contact  :- </label>+91 - 99200 88880</h4>
+	<h4 style="padding-left:100px; padding-top:20px; font-family:Monotype Corsiva;"><label style="color:#ff4700;">Email   &nbsp;&nbsp;&nbsp; :-</label> contact@resetlife.in</h4>
+	</div>
+	
+	
+	<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15086.475064146096!2d73.0175363!3d19.0365136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c3c20d34a785%3A0x813bca6aabd7e658!2sCNC%20WEBWORLD!5e0!3m2!1sen!2sin!4v1675242034751!5m2!1sen!2sin" width="100%" height="80%" style="border:0; margin-top:20px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
+	
+	
+	</div>
+	</div>
+	
+	
+	<!-----------------------------------Footer------------------------------->
+ 
+ <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<footer class="hero">
+        <div class="container flex">
+            <div class="container__about">
+                <h2>About</h2>
+                <p>If you want something you've never had, you must be willing to do something you've never done.” “The body achieves what the mind believes.” “Once you are exercising regularly, the hardest thing is to stop it.” “If you don't make time for exercise, you'll probably have to make time for illness.”</p>
+            </div>
+            <div class="container-pages flex">
+
+                <div class="container__recentpages">
+                    <h2>Recient Pages</h2>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="About.html">ABOUT</a></li>
+                        <li><a href="Classes.html">CLASSES</a></li>
+                        <li><a href="NutritionCounseling.html">NUTRITION COUNSELING</a></li>
+						<li><a href="Contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+       
+        <div class="by flex">
+           
+            <div class="icons">
+                <a href="https://t.co/VBNNTjtw3F" class="icon1 icon--instagram">
+                    <i class="ri-instagram-line"></i>
+                </a>
+                <a href="#" class="icon1 icon--twitter">
+                    <i class="ri-twitter-line"></i>
+                </a>
+                <a href="linkedin.com/in/brayan-ospina-8bb472243" class="icon1 icon--linkedin">
+                    <i class="ri-linkedin-line"></i>
+                </a>
+                <a href="https://github.com/brayanospina2005/final-project" class="icon1 icon--github">
+                    <i class="ri-github-line"></i>
+                </a>
+            </div>
+        </div>
+
+    </footer>
+	</body>
+	</html>

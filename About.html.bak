@@ -1,0 +1,207 @@
+<html>
+<head>
+<title>FITNESS HUB</title>
+<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	<script type="text/javascript" src="jquery.js"></script>
+	<script type="text/javascript" src="popper.js"></script>
+	<script type="text/javascript" src="bootstrap.js"></script>
+	
+	<link rel="stylesheet" href="About.css">
+</head>
+<body>
+
+		<!-- 	NAVIGATION BAR-->
+		
+		
+	<nav class="navbar navbar-expand-sm  navbar-dark sticky-top" style="background:black;">
+	<div class="container">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="margin-top:5px;">
+	    		<span class="navbar-toggler-icon"></span>
+	  		</button>
+    <header class="d-flex flex-wrap justify-content-center">
+      <a href="/" class="d-flex  mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="5"><use xlink:href="#bootstrap"></use></svg>
+        
+      </a>
+<div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="nav nav-pills navbar-nav mx-auto">
+        <li class="nav-item"><a href="index.html"  class="nav-link "  style="width: 100px; text-align: center;">HOME</a></li>
+        <li class="nav-item"><a href="About.html" class="nav-link active" aria-current="page"  style="width: 100px; text-align: center;">ABOUT</a></li>
+        <li class="nav-item"><a href="Classes.html" class="nav-link"style="width: 100px; text-align: center;">CLASSES</a></li>
+		<li class="nav-item"><a href="NutritionCounseling.html" class="nav-link" style="width:230px; text-align:center;">NUTRITION COUNSELING</a></li>
+        /a></li>
+		<li class="nav-item"><a href="Contact.html" class="nav-link"style="width:100px; text-align: center;">CONTACT</a></li>
+      </ul>
+	  </div>
+    </header>
+	</div>
+	</nav>
+
+<!-------------------------------------------Image-------------------------->
+<div class="container-fluid">
+<div class="row">
+<div class="about my-4">
+		<h1>WE BUILT THE<br> HIGHEST<br> QUALITY<br> EQUIPMENT</h1><br>
+		
+		
+		<p style="color:white; padding-left:20px;"> We built our first fitness product in 1983,<br> with the simple goal of giving our<br> customers the highest quality equipment to<br> help them achieve their fitness goals.<br><br>
+		It is that same simple purpose which<br> continues today in designing and<br> developing every piece of equipment that<br> bears the Spirit Fitness name. We make<br> sure that each new equipment design<br> meets the same demanding standards that<br> have crafted the Spirit Fitness brand.</p>
+</div>
+</div>
+</div>
+
+<!-------------------------------------------div=-------------------------->
+<div style="background-color:#141414; margin-top:50px;">
+<div class="container">
+<div class="row">
+	<div class=" r1 col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 impro" >
+		<h1 >IMPROVING OUR CUSTOMERS EXPERIENCE</h1>
+<p style="color:white">Our other passion has always been on innovation that improves our customers' experience. We were one of the first to integrate cooling fans on our products; a high-quality fan is now standard on nearly all Spirit Fitness products. We also integrate audio speakers for MP3 players on most of our products. The number one reason people stop exercising is from boredom, and we know that if you are a little more comfortable, you will work-out longer and achieve your fitness goals that much faster.</p>
+	</div>
+	
+	<div class=" r2 col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 impro1">
+	<h1 >DELIVERING A QUALITY EXPERIENCE</h1>
+	<p>Over the last thirty years, our focus has always been-and will continue to be-delivering a quality experience with our equipment. We understand that our products are an investment and we design them to keep pace with your own longterm fitness goals. All of our products are produced in our ISO-certified factories for consistent quality.</p>
+	</div>
+	
+	<div class=" r3 col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+	<img src="Images/download.png" alt="" style="height:100%; width:100%"/>
+	</div>
+</div>
+</div>
+</div>
+
+
+<!-------------------------------------------our value-------------------------->
+
+<div style="background-color:#e0d0e3; margin-top:50px;">
+<div class="container">
+
+
+<div class="row">
+<h1 class="value">OUR VALUES</h1>
+<p>For 20 years helping customers reach their fitness goals has been at the heart of what we do and why we do it! We live and breathe our six core values and four brand promises  — which speak of our commitment to our customers, staff, the industry and our business as a whole.</p>
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images16.jpg" alt="" style="padding-left:70px;"/>
+ <h3>Customer Service</h3>
+ <p>Customers are why we exist and we’re passionate about delivering exceptional, personalised customer service to all.</p>
+</div>
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images17.jpg" alt="" style="padding-left:70px;"/>
+ <h3 style="padding-left:30px;">Communication</h3>
+ <p>We believe open, direct and supportive communication is the foundation of any successful organisation.</p>
+</div>
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images18.jpg" alt="" style="padding-left:70px;"/>
+ <h3 style="padding-left:80px;">Teamwork</h3>
+ <p>We’re committed to common goals, with effective communication and accountability making our team achieve greater results.</p>
+</div>
+
+</div>
+
+
+<div class="row pt-5">
+
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images19.jpg" alt="" style="padding-left:70px;"/>
+ <h3 style="padding-left:60px;">Nimbagility</h3>
+ <p>Invented by our company directors, Nimbagility reflects the ability to remain nimble and agile through lean, efficient actions.</p>
+</div>
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images20.jpg" alt="" style="padding-left:70px;"/>
+ <h3>Be the change you seek</h3>
+ <p>We believe we should all take ownership and have the courage to lead change, creating a better experience for our people and the customers we serve.</p>
+</div>
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+ <img src="Images/images21.jpg" alt="" style="padding-left:70px;"/>
+ <h3 style="padding-left:80px;">Innovation</h3>
+ <p>To help turn our ideas into reality, we embrace a culture of creative innovation in our people, processes and products.</p>
+</div>
+
+</div>
+
+
+
+</div>
+</div>
+
+<!-------------------------------------------our culture-------------------------->
+
+<div style="background-color:black;">
+<div class="container">
+<h1 class="culture">OUR CULTURE</h1><br>
+<p class="our">We know that building a positive culture is incredibly important. We believe in encouraging, supporting, challenging, learning and growing to be the best! Our flexible working solutions, gym rebates and educational opportunities create a positive work/life balance for all our employees.<br><br>
+
+We believe in giving back and offering time, money and products to volunteer services and community organisations. We’re committed to improving individuals' health, fitness, and well-being by supporting global and local charities, local sports teams, and events.</p><BR>
+
+<button class="getin" type="button"  >GET IN TOUCH</button><br><br><br><br>
+</div>
+</div>
+
+
+
+
+
+<!-----------------------------------Footer------------------------------->
+ 
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<footer class="hero">
+        <div class="container flex">
+            <div class="container__about">
+                <h2>About</h2>
+                <p>If you want something you've never had, you must be willing to do something you've never done.” “The body achieves what the mind believes.” “Once you are exercising regularly, the hardest thing is to stop it.” “If you don't make time for exercise, you'll probably have to make time for illness.”</p>
+            </div>
+            <div class="container-pages flex">
+
+                <div class="container__recentpages">
+                    <h2>Recient Pages</h2>
+                    <ul>
+                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="About.html">ABOUT</a></li>
+                        <li><a href="Classes.html">CLASSES</a></li>
+                        <li><a href="NutritionCounseling.html">NUTRITION COUNSELING</a></li>
+                        
+						<li><a href="Contact.html">CONTACT</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="by flex">
+           
+            <div class="icons">
+                <a href="https://t.co/VBNNTjtw3F" class="icon1 icon--instagram">
+                    <i class="ri-instagram-line"></i>
+                </a>
+                <a href="#" class="icon1 icon--twitter">
+                    <i class="ri-twitter-line"></i>
+                </a>
+                <a href="linkedin.com/in/brayan-ospina-8bb472243" class="icon1 icon--linkedin">
+                    <i class="ri-linkedin-line"></i>
+                </a>
+                <a href="https://github.com/brayanospina2005/final-project" class="icon1 icon--github">
+                    <i class="ri-github-line"></i>
+                </a>
+            </div>
+        </div>
+
+    </footer>
+
+
+
+
+</body>
+</html>
